@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codebyfifi
 - I'm a former HS mathematics teacher currently living in SE Asia.
-- 👀 I’m interested in learning to code to become a data analyst/scienctist
+- 👀 I’m interested in learning to code to become a data analyst/scientist
 - 🌱 I’m currently learning python
 - 📫 How to reach me via email nanfitospace@gmail.com 
 
