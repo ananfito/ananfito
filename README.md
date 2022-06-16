@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @codebyfifi
-- I'm a former HS mathematics teacher currently living in SE Asia.
+- I'm a mathematics teacher currently living in SE Asia.
 - 👀 I’m interested in learning to code to become a data analyst/scientist
 - 🌱 I’m currently learning python
-- 📫 How to reach me via email nanfitospace@gmail.com 
+- 📫 How to reach me via email nanfitospace (at) gmail (dot) com 
 
 <!---
 codebyfifi/codebyfifi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
