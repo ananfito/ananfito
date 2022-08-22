@@ -1,4 +1,4 @@
-👋 Hi, I’m Anthony (@ananfito). My day job is a mathematics teacher, but I'm studying to be a programmer. I have experience with data analytics & front-end web development in Python, R, and HTML/CSS. I'm looking to connect with others to learn and grow as a developer. You can view my projects & certifications on my portfolio website at [https://ananfito.github.io/](https://ananfito.github.io/). Happy coding!
+👋 Hi, I’m Anthony (@ananfito). I'm currently employed as a mathematics teacher, but I'm studying to be a programmer. I have experience with data analytics & front-end web development in Python, R, and HTML/CSS. I'm looking to connect with others to learn and grow as a developer. You can view my projects & certifications on my portfolio website at [https://ananfito.github.io/](https://ananfito.github.io/). Happy coding!
 
 📫 How to reach me:
  - email: [ananfito@gmail.com](mailto:ananfito@gmail.com)
