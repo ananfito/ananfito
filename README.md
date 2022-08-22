@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @ananfito, an entry-level data analytics professional & front-end web developer
-- Certificates: [Google Data Analytics Professional Certificate](https://www.google.com/url?q=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fdafff9fa-de9f-497f-bd7f-d98c46a24e73%2Fpublic_url&sa=D) and [freeCodeCamp's Responsive Web Design](https://www.freecodecamp.org/certification/ananfito/responsive-web-design)
-- You can learn more about my projects on [my portfolio website](http://ananfito.github.io/)
-- 📫 How to reach me via email ananfito (at) gmail (dot) com or via [LinkedIn](http://www.linkedin.com/in/anthonynanfito/)
+👋 Hi, I’m Anthony (@ananfito). My day job is a mathematics teacher, but I'm studying to be a programmer. I have experience with data analytics & front-end web development in Python, R, and HTML/CSS. I'm looking to connect with others to learn and grow as a developer. You can view my projects & certifications on my portfolio website at [https://ananfito.github.io/](https://ananfito.github.io/). Happy coding!
 
+📫 How to reach me:
+ - email: ananfito (at) gmail [dot] com
+ - Twitter: [@wordsbyfifi](https://twitter.com/wordsbyfifi/)
+ - [LinkedIn](http://www.linkedin.com/in/anthonynanfito/)
