@@ -7,6 +7,6 @@ I am a mathematics teacher studying to be a front-end web developer. I'm interes
 - 💻 You can view my projects & certifications at [https://ananfito.github.io/](https://ananfito.github.io/)
 
 ### 📫 How to reach me:
- - [Email](mailto:ananfito@gmail.com)
+ - [Email](https://anthonynanfito.com/contact)
  - [Twitter](https://twitter.com/wordsbyfifi/)
  - [LinkedIn](http://www.linkedin.com/in/anthonynanfito/)
