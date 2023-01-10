@@ -10,13 +10,13 @@ I am a mathematics teacher studying to be a front-end web developer. I'm interes
 
 ### Featured Projects
 - **MathemaQuizzo** 
-  - *A mathematical quiz game built using HTML, CSS, and JavaScript.*
+  - *A mathematical quiz game built using HTML, CSS, and JavaScript. Features include the ability to check for correct response, receive hints, and gain/lose points. *
   - [https://github.com/ananfito/mathemaquizzo](https://github.com/ananfito/mathemaquizzo)
 - **To-Do List** 
   - *A simple to-do list built using HTML, CSS, and JavaScript. Features include the ability to add items, mark with strikethrough when complete, and delete items.*
   - [https://github.com/ananfito/to-do-list](https://github.com/ananfito/to-do-list)
 - **Case Study: How does a bike share navigate speedy success?**
-  - *An analysis of a bikeshare comapny in Chicaog using de-personalized user data. This case study includes key findings and recommendations for increasing bikeshare membership.*
+  - *An analysis of a bikeshare company in Chicago using de-personalized user data. This case study includes key findings and recommendations for increasing bikeshare membership.*
   - [https://rpubs.com/anthonynanfito/case_study_cyclistic](https://rpubs.com/anthonynanfito/case_study_cyclistic)
 
 *More of my projects can be found on [my portfolio](https://ananfit.github.io/) and [GitHub]([https://github.com/ananfito/](https://github.com/ananfito?tab=repositories)).*
@@ -29,7 +29,6 @@ I am a mathematics teacher studying to be a front-end web developer. I'm interes
 
 ### Links
 - LinkedIn: https://linkedin.com/in/anthonynanfito
-- GitHub: https://github.com/ananfito 
 - Portfolio: https://ananfito.github.io 
 - Blog: https://ananfito.hashnode.dev
 - [Email](https://anthonynanfito.com/contact)
