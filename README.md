@@ -14,7 +14,7 @@ I also have experience collecting, transforming, and organizing data for analysi
 
 ### Featured Projects
 - **MathemaQuizzo** 
-  - *A mathematical quiz game built using HTML, CSS, and JavaScript. Features include the ability to check for correct response, receive hints, and gain/lose points. *
+  - *A mathematical quiz game built using HTML, CSS, and JavaScript. Features include the ability to check for correct response, receive hints, and gain/lose points.*
   - [https://github.com/ananfito/mathemaquizzo](https://github.com/ananfito/mathemaquizzo)
 - **To-Do List** 
   - *A simple to-do list built using HTML, CSS, and JavaScript. Features include the ability to add items, mark with strikethrough when complete, and delete items.*
@@ -23,7 +23,7 @@ I also have experience collecting, transforming, and organizing data for analysi
   - *An analysis of a bikeshare company in Chicago using de-personalized user data. This case study includes key findings and recommendations for increasing bikeshare membership.*
   - [https://rpubs.com/anthonynanfito/case_study_cyclistic](https://rpubs.com/anthonynanfito/case_study_cyclistic)
 
-*More of my projects can be found on [my portfolio](https://ananfit.github.io/) and [GitHub]([https://github.com/ananfito/](https://github.com/ananfito?tab=repositories)).*
+*More of my projects can be found on [my portfolio](https://ananfit.github.io/) and in my GitHub repositories.*
 
 ### Education
 - **[Responsive Web Design Certficate](https://www.freecodecamp.org/certification/ananfito/responsive-web-design)** -- freeCodeCamp, *Received July 2022*
