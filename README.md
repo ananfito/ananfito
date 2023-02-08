@@ -1,5 +1,9 @@
 ## 👋 Hi, I’m Anthony 
-I am an entry-level front-end web developer and analytics professional. I have an excellent understanding of HTML, CSS, and JavaScript for intuitive and accessible front-end web development. I also have experience collecting, transforming, and organizing data for analysis to help make informed decisions — including proficient use of platforms for effective data analyses, such as SQL, spreadsheets, Tableau, R, and Python. 
+I am an entry-level front-end web developer with a strong background in education and communication, and a passion for creating intuitive and accessible web-based software. 
+
+I have an excellent understanding of HTML, CSS, and JavaScript. I am a self-motivated person who enjoys working collaboratively but can also work independently with limited supervision.
+
+I also have experience collecting, transforming, and organizing data for analysis to help make informed decisions—including proficient use of platforms for effective data analyses, such as SQL, spreadsheets, Tableau, R, and Python. Graduate of the Google Data Analytics Certificate—a rigorous, hands-on program that covers the entire scope of the data analysis process.
 
 ### Skills
 - Programming experience with: HTML, CSS, JavaScript, R, SQL, Tableau, Python
