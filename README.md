@@ -6,7 +6,7 @@ I have an excellent understanding of HTML, CSS, and JavaScript. I am a self-moti
 I also have experience collecting, transforming, and organizing data for analysis to help make informed decisions—including proficient use of platforms for effective data analyses, such as SQL, spreadsheets, Tableau, R, and Python. Graduate of the Google Data Analytics Certificate—a rigorous, hands-on program that covers the entire scope of the data analysis process.
 
 ### Skills
-- Programming experience with: HTML, CSS, JavaScript, R, SQL, Tableau, Python
+- Programming experience with: HTML, CSS, JavaScript, Git, Python, R, SQL, Tableau
 - High-level understanding of mathematics including algebra, geometry, calculus, and statistics
 - Ability to communicate complex ideas in educational, entertaining, and inspiring narratives
 - Extensive experience with project management and backward planning
