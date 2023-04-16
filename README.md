@@ -5,7 +5,7 @@ I have an excellent understanding of HTML, CSS, and JavaScript. I am a self-moti
 
 I also have experience collecting, transforming, and organizing data for analysis to help make informed decisions—including proficient use of platforms for effective data analyses, such as SQL, spreadsheets, Tableau, R, and Python. Graduate of the Google Data Analytics Certificate—a rigorous, hands-on program that covers the entire scope of the data analysis process.
 
-### Skills
+### 🧰 Skills
 
 - Programming experience with: HTML, CSS, JavaScript, Git, Python, R, SQL, Tableau
 - High-level understanding of mathematics including algebra, geometry, calculus, and statistics
@@ -15,7 +15,7 @@ I also have experience collecting, transforming, and organizing data for analysi
 
 *For more details on my work experience and education, you can [view my full resume](https://github.com/ananfito/ananfito.github.io/blob/main/01_Anthony-Nanfito_CV.pdf).*
 
-### Featured Projects
+### 💻 Featured Projects
 
 - **[Restaurant Ordering App](https://github.com/ananfito/restaurant-ordering-app)** - A restaurant ordering app created with HTML, CSS, and JavaScript. The app has the ability add/remove items and accept payment methods. 
 
@@ -25,14 +25,14 @@ I also have experience collecting, transforming, and organizing data for analysi
 
 *You can find more of my projects on [my portfolio](https://ananfit.github.io/) and in my GitHub repositories.*
 
-### Education
+### 🎓 Education
 
 - **[Responsive Web Design Certficate](https://www.freecodecamp.org/certification/ananfito/responsive-web-design)** -- freeCodeCamp, *Received July 2022*
 - **[Google Data Analytics Certficate](https://www.credly.com/badges/dafff9fa-de9f-497f-bd7f-d98c46a24e73/public_url)** -- Coursera, *Received May 2022*
 - **Single-Subject Teaching Credential, Mathematics** -- California State University, Chico, *Received May 2013*
 - **Bachelor of Science, Mathematics** -- California State University, Chico, *Received May 2012*
 
-### Links
+### 🔗 Links
 - [LinkedIn](https://linkedin.com/in/anthonynanfito)
 - [Portfolio](https://ananfito.github.io)
 - [Blog](https://ananfito.hashnode.dev)
