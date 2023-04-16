@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Anthony 
-I am an entry-level front-end web developer with a strong background in education and communication, and a passion for creating intuitive and accessible web-based software. 
+I am a frontend web developer with a strong background in education and communication, and a passion for creating intuitive and accessible web-based software. 
 
 I have an excellent understanding of HTML, CSS, and JavaScript. I am a self-motivated person who enjoys working collaboratively but can also work independently with limited supervision.
 
