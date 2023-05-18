@@ -3,7 +3,7 @@ I am a front-end web developer with a strong background in education and communi
 
 I have an excellent understanding of HTML, CSS, and JavaScript. I am a self-motivated person who enjoys working collaboratively but can also work independently with limited supervision.
 
-I also have experience collecting, transforming, and organizing data for analysis to help make informed decisions—including proficient use of platforms for effective data analyses, such as SQL, spreadsheets, Tableau, R, and Python. Graduate of the Google Data Analytics Certificate—a rigorous, hands-on program that covers the entire scope of the data analysis process.
+I also have experience collecting, transforming, and organizing data for analysis to help make informed decisions—including proficient use of platforms for effective data analyses, such as SQL, spreadsheets, Tableau, R, and Python. Graduate of the [Google Data Analytics Certificate](https://www.credly.com/badges/dafff9fa-de9f-497f-bd7f-d98c46a24e73/public_url)—a rigorous, hands-on program that covers the entire scope of the data analysis process.
 
 ### 🧰 Skills
 
