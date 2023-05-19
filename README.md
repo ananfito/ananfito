@@ -36,4 +36,4 @@ I also have experience collecting, transforming, and organizing data for analysi
 - [LinkedIn](https://linkedin.com/in/anthonynanfito)
 - [Portfolio](https://ananfito.github.io)
 - [Blog](https://ananfito.hashnode.dev)
-- [Email](https://anthonynanfito.com/contact)
+- [Email](mailto:msg.for.anthony.p6ht3@simplelogin.com)
