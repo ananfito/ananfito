@@ -17,11 +17,11 @@ I also have experience collecting, transforming, and organizing data for analysi
 
 ### 💻 Featured Projects
 
-- **[Restaurant Ordering App](https://github.com/ananfito/restaurant-ordering-app)** - A restaurant ordering app created with HTML, CSS, and JavaScript. The app has the ability add/remove items and accept payment methods. 
+- **[Personal Dashboard](https://github.com/ananfito/dashboard-clone)** — A Chrome extension that acts as a personal dashboard pulling info from REST APIs built with HTML, CSS, and JavaScript.
+
+- **[Interactive Rating Component](https://github.com/ananfito/interactive-rating-component)** - A rating component built with HTML, CSS, JavaScript, and React. The user submits a rating and receives a thank you response with their selected rating.
 
 - **[MathemaQuizzo](https://github.com/ananfito/mathemaquizzo)** - A mathematical quiz game built using HTML, CSS, and JavaScript. Features include the ability to check for correct response, receive hints, and gain/lose points. 
-
-- **[Learning Journal (Blog)](https://github.com/ananfito/learning-journal)** - A learning journal (or blog) built using HTML, CSS, and JavaScript with a mobile-first approach. The site makes use of JavaScript to render page content and display new content. 
 
 *You can find more of my projects on [my portfolio](https://ananfit.github.io/) and in my GitHub repositories.*
 
