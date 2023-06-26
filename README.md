@@ -7,7 +7,7 @@ I also have experience collecting, transforming, and organizing data for analysi
 
 ### 🧰 Skills
 
-- Programming experience with: HTML, CSS, JavaScript, REST APIs, Git, Python, R, SQL, Tableau
+- Programming experience with: HTML, CSS, JavaScript, React, REST APIs, Git, Python, R, SQL, Tableau
 - High-level understanding of mathematics including algebra, geometry, calculus, and statistics
 - Ability to communicate complex ideas in educational, entertaining, and inspiring narratives
 - Extensive experience with project management and backward planning
