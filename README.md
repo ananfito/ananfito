@@ -33,7 +33,7 @@ I also have experience collecting, transforming, and organizing data for analysi
 - **Bachelor of Science, Mathematics** -- California State University, Chico, *Received May 2012*
 
 ### 🔗 Links
+- <a href="mailto:msg.for.anthony.p6ht3@simplelogin.com?subject=Nice GitHub Project&body=Hey Anthony, I saw your GitHub project. Let's talk!">Email</a>
 - [LinkedIn](https://linkedin.com/in/anthonynanfito)
 - [Portfolio](https://ananfito.github.io)
 - [Blog](https://ananfito.hashnode.dev)
-- [Email](mailto:msg.for.anthony.p6ht3@simplelogin.com)
