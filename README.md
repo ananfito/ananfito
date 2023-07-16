@@ -7,21 +7,31 @@ I also have experience collecting, transforming, and organizing data for analysi
 
 ### 🧰 Skills
 
-- Programming experience with: HTML, CSS, JavaScript, React, REST APIs, Git, Python, R, SQL, Tableau
-- High-level understanding of mathematics including algebra, geometry, calculus, and statistics
+- Languages & frameworks: HTML, CSS, JavaScript, React, Python, SQL, R
+- Tools: Git, GitHub, REST APIs, Tableau
 - Ability to communicate complex ideas in educational, entertaining, and inspiring narratives
-- Extensive experience with project management and backward planning
-- Fluent in the use of online and computer software to create word processing documents, spreadsheets, and presentations including, but not limited to, Google Suite, Apple OS, and Microsoft Office Suite
+- Extensive experience with project management, backward planning, and collaboration
+- Excellent communication, organization, and analytical skills
 
-*For more details on my work experience and education, you can [view my full resume](https://github.com/ananfito/ananfito.github.io/blob/main/01_Anthony-Nanfito_CV.pdf).*
+*Visit my [resume](https://ananfito.github.io/resume) more info on my skills and previous work experience.*
 
 ### 💻 Featured Projects
 
-- **[Personal Dashboard](https://github.com/ananfito/dashboard-clone)** — A Chrome extension that acts as a personal dashboard pulling info from REST APIs built with HTML, CSS, and JavaScript.
-
-- **[Interactive Rating Component](https://github.com/ananfito/interactive-rating-component)** - A rating component built with HTML, CSS, JavaScript, and React. The user submits a rating and receives a thank you response with their selected rating.
-
-- **[MathemaQuizzo](https://github.com/ananfito/mathemaquizzo)** - A mathematical quiz game built using HTML, CSS, and JavaScript. Features include the ability to check for correct response, receive hints, and gain/lose points. 
+- **Tenzies Dice Game** - A clone of the popular dice game Tenzies [[Demo](https://tenzies-clone.netlify.app), [Repo](https://github.com/ananfito/tenzies-clone)]
+    - *Built with:* HTML, CSS, JavaScript, React
+    - *Key takeaway:* Using CSS Grid to display the dice dots
+- **Restaurant Ordering App** - A mobile ordering app for a restaurant capable of accepting payment information [[Demo](https://ananfito.github.io/restaurant-ordering-app/), [Repo](https://github.com/ananfito/restaurant-ordering-app)]
+    - *Built with:* HTML, CSS, JavaScript
+    - *Key takeaway:* Using HTML data attributes to calculate user's order total for payment
+- **Course Sign-up Form** - A sign-up form for an online course with form validation for user input [[Demo](https://incredible-pegasus-1b4484.netlify.app), [Repo](https://github.com/ananfito/sign-up-form)]
+    - *Built with:* HTML, CSS, JavaScript, React
+    - *Key takeaway:* Using JavaScript to validate user-inputted data
+- **Dashboard** - A Chrome extension personal dashboard with customized info such as crypto exchange rates and weather [[Demo](https://personal-dashboard-7b5ad0.netlify.app/), [Repo](https://github.com/ananfito/dashboard-clone)]
+    - *Built with:* HTML, CSS, JavaScript, REST APIs
+    - *Key takeway:* Using `.catch()` to handle any errors when fetching data from the API
+- **Ineractive Rating Component** - A user rating component with submission confirmation [[Demo](https://rating-component-9fb0b9.netlify.app/), [Repo](https://github.com/ananfito/interactive-rating-component)]
+    - *Built with:* HTML, CSS, JavaScript, React
+    - *Key takeaway:* Handling `props` data between React components.
 
 *You can find more of my projects on [my portfolio](https://ananfit.github.io/) and in my GitHub repositories.*
 
