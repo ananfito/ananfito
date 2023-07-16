@@ -7,7 +7,7 @@ I also have experience collecting, transforming, and organizing data for analysi
 
 ### 🧰 Skills
 
-- **Languages** HTML, CSS, JavaScript, Python, SQL, R
+- **Languages:** HTML, CSS, JavaScript, Python, SQL, R
 - **Tools:** React, Git, GitHub, REST APIs, Tableau
 - Ability to communicate complex ideas in educational, entertaining, and inspiring narratives
 - Extensive experience with project management, backward planning, and collaboration
