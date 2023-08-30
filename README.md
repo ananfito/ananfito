@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Anthony 
-I'm a front-end web developer with a strong background in education and communication, and a passion for creating intuitive and accessible web-based software. I'm proficient in using HTML, CSS, JavaScript, React, Git, and Vite to create web applications. And I'm enjoy leveraging my strong analytical, problem-solving, and communication skills to create intuitive and visualy appealing web applications. When I'm not working on coding projects, I enjoy going for nature walks, reading/writing sci-fi, writing poetry, and playing board games or RPGs with friends.
+I'm a front-end web developer with a strong background in education and communication, and a passion for creating intuitive and accessible web-based software. I'm proficient in using HTML, CSS, JavaScript, React, and Vite to create intuitive and visualy appealing web applications. When I'm not working on coding projects, I enjoy going for nature walks, reading/writing sci-fi, writing poetry, and playing board games or RPGs with friends.
 
 ### 🧰 Skills
 
