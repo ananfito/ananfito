@@ -1,17 +1,13 @@
 ## 👋 Hi, I’m Anthony 
-I am a front-end web developer with a strong background in education and communication, and a passion for creating intuitive and accessible web-based software. 
-
-I have an excellent understanding of HTML, CSS, and JavaScript. I am a self-motivated person who enjoys working collaboratively but can also work independently with limited supervision.
-
-I also have experience collecting, transforming, and organizing data for analysis to help make informed decisions—including proficient use of platforms for effective data analyses, such as SQL, spreadsheets, Tableau, R, and Python. Graduate of the [Google Data Analytics Certificate](https://www.credly.com/badges/dafff9fa-de9f-497f-bd7f-d98c46a24e73/public_url)—a rigorous, hands-on program that covers the entire scope of the data analysis process.
+I'm a front-end web developer with a strong background in education and communication, and a passion for creating intuitive and accessible web-based software. I'm proficient in using HTML, CSS, JavaScript, React, Git, and Vite to create web applications. And I'm enjoy leveraging my strong analytical, problem-solving, and communication skills to create intuitive and visualy appealing web applications. When I'm not working on coding projects, I enjoy going for nature walks, reading/writing sci-fi, writing poetry, and playing board games or RPGs with friends.
 
 ### 🧰 Skills
 
-- **Languages:** HTML, CSS, JavaScript, Python, SQL, R
-- **Tools:** React, Git, GitHub, REST APIs, Tableau
-- Ability to communicate complex ideas in educational, entertaining, and inspiring narratives
-- Extensive experience with project management, backward planning, and collaboration
-- Excellent communication, organization, and analytical skills
+- **Web Development:** HTML, CSS, JavaScript, React, Vite, Git, GitHub, REST APIs
+- **Mathematics:** Algebra, Geometry, Calculus, Statistics
+- **Communication:** Strong ability to communicate complex ideas in educational, entertaining, and inspiring narratives
+- **Project Management:** Extensive experience with backward planning and task prioritization
+- **Data Analytics:** Proficient in Python, R, SQL, and Tableau for data collection, transformation, and visualization
 
 *Visit my [resume](https://ananfito.github.io/resume) more info on my skills and previous work experience.*
 
@@ -37,6 +33,8 @@ I also have experience collecting, transforming, and organizing data for analysi
 
 ### 🎓 Education
 
+- **[Frontend Developer Career Path](https://scrimba.com/certificate/uerWNntQ/gfrontend)** -- Scrimba.com, *Received August 2023*
+- **[Theoretical and Practical JavaScript](https://www.sololearn.com/certificates/CT-T4ODYRK2)** -- Sololearn.com, *Received January 2023*
 - **[Responsive Web Design Certficate](https://www.freecodecamp.org/certification/ananfito/responsive-web-design)** -- freeCodeCamp, *Received July 2022*
 - **[Google Data Analytics Certficate](https://www.credly.com/badges/dafff9fa-de9f-497f-bd7f-d98c46a24e73/public_url)** -- Coursera, *Received May 2022*
 - **Single-Subject Teaching Credential, Mathematics** -- California State University, Chico, *Received May 2013*
