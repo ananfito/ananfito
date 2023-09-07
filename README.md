@@ -9,7 +9,7 @@ I'm a front-end web developer with a strong background in education and communic
 - **Project Management:** Extensive experience with backward planning and task prioritization
 - **Data Analytics:** Proficient in Python, R, SQL, and Tableau for data collection, transformation, and visualization
 
-*Visit my [resume](https://ananfito.github.io/resume) more info on my skills and previous work experience.*
+*Visit my [resume](https://ananfito.dev/resume-anthony-nanfito.pdf) more info on my skills and previous work experience.*
 
 ### 💻 Featured Projects
 
