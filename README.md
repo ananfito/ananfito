@@ -3,7 +3,7 @@ I am detail-oriented data analyst with a strong foundation in Python, R, SQL, an
 
 ### 🧰 Skills
 
-- **Data Analytics Tools:** Python, R, SQL, Tableau, Excel, Google Sheets, Tableau
+- **Data Analytics Tools:** Pandas, Numpy, Tableau, Excel, Google Sheets
 - **Programming:** Python, R, SQL, HTML, CSS, JavaScript, C, Git
 - **Mathematics & Statistics:** Statistical modeling, probability theory, inferential statistics
 - **Soft Skills:** Communication, collaboration, project management
