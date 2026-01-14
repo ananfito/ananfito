@@ -3,8 +3,8 @@ I am detail-oriented data analyst with a strong foundation in Python, R, SQL, an
 
 ### 🧰 Skills
 
-- **Data Analytics Tools:** Pandas, Numpy, Tableau, Excel, Google Sheets
-- **Programming:** Python, R, SQL, HTML, CSS, JavaScript, C, Git
+- **Data Analytics Tools:** Pandas, Numpy, Tableau, Excel, Google Sheets, machine learning
+- **Programming:** Python, R, SQL, SAS, HTML, CSS, JavaScript, C, Git
 - **Mathematics & Statistics:** Statistical modeling, probability theory, inferential statistics
 - **Soft Skills:** Communication, collaboration, project management
 
@@ -14,11 +14,12 @@ I am detail-oriented data analyst with a strong foundation in Python, R, SQL, an
 - **[FitBit Usage Analysis](https://github.com/ananfito/case-study_bellabeat):** Examined usage data with R to provide Bellabeat insights into user behavior, shaping high-level marketing strategies.
 - **[Bike Share Analysis](https://github.com/ananfito/case-study_cyclistic):** Integrated and analyzed customer usage data with R and Tableau, revealing key user patterns to optimize service offerings.
 
-### 🎓 Education
+### 🎓 Education & Certificates
 
-- **Masters of Science, Business Analytics** -- California State University, Sacramento, *Expected May 2026*
+- **Masters of Science, Business Analytics** -- California State University, Sacramento, *Expected August 2026*
 - **Single-Subject Teaching Credential, Mathematics** -- California State University, Chico, *Received May 2013*
 - **Bachelor of Science, Mathematics** -- California State University, Chico, *Received May 2012*
+- **[SAS Certified Specialist: Base Programming Using SAS 9.4](https://www.credly.com/badges/aba1b07f-3031-4b0f-bd2c-29a1113134d5/public_url)** -- SAS, *Received June 2025*
 - **[Frontend Developer Career Path](https://scrimba.com/certificate/uerWNntQ/gfrontend)** -- Scrimba.com, *Received August 2023*
 - **[Theoretical and Practical JavaScript](https://www.sololearn.com/certificates/CT-T4ODYRK2)** -- Sololearn.com, *Received January 2023*
 - **[Responsive Web Design Certficate](https://www.freecodecamp.org/certification/ananfito/responsive-web-design)** -- freeCodeCamp, *Received July 2022*
